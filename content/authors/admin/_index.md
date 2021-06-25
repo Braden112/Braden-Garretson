@@ -33,4 +33,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am an undergraduate researcher at Purdue University as apart of the time domain astronomy research group run by Professor Dan Milisavljevic. My current work involves the photometric classification of supernovae lightcurves using machine learning with the goal of acquiring “template” lightcurves to improve REFITT’s ability to predict the future behavior of transients.
+I am an undergraduate researcher at Purdue University as apart of the time domain astronomy research group run by Professor Dan Milisavljevic. My current work involves the photometric classification of supernovae lightcurves using machine learning with the goal of acquiring “template” lightcurves to improve [REFITT’s](https://refitt.physics.purdue.edu/) ability to predict the future behavior of transients.
