@@ -4,8 +4,13 @@ title: Supernova Host Galaxy Association and Photometric Classification of over
 publication_types:
   - "2"
 authors:
-  - Braden Garretson and Dan Milisavljevic and Jack Reynolds and Kathryn E. Weil
-    and Bhagya Subrayan and John Banovetz and Rachel Lee
+  - Braden Garretson
+  - Dan Milisavljevic
+  - Jack Reynolds
+  - Kathryn E. Weil
+  - Bhagya Subrayan
+  - John Banovetz
+  - and Rachel Lee
 doi: 10.3847/2515-5172/ac416e
 abstract: Here we present a catalog of 12,993 photometrically-classified
   supernova-like light curves from the Zwicky Transient Facility, along with
