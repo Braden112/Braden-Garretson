@@ -11,13 +11,7 @@ authors:
   - Bhagya Subrayan
   - John Banovetz
   - and Rachel Lee
-author_notes:
-  - Department of Physics and Astronomy
-  - Purdue University
-  - 525 Northwestern Avenue
-  - West Lafayette
-  - IN 47907-2036
-  - USA
+author_notes: []
 doi: 10.3847/2515-5172/ac416e
 abstract: Here we present a catalog of 12,993 photometrically-classified
   supernova-like light curves from the Zwicky Transient Facility, along with
