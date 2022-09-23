@@ -1,7 +1,7 @@
 ---
 title: Braden Garretson
 role: Undergraduate Researcher
-avatar_filename: avatar.jpg
+avatar_filename: trip-75.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
